@@ -1,5 +1,7 @@
 # Elixir Brasil 2019
 
+![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/elixir_brasil.png)
+
 **Data**: 28 de março de 2019
 
 **Local**: Nubank
