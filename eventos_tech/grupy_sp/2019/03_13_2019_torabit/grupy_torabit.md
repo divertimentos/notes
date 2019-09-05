@@ -31,7 +31,7 @@
 - Crowdsourcing
 - Programação Linear
 - Simplex | o que é? (Renan)
-- Essa mina é muito bruxa.
+- **Essa mina é muito bruxa.**
 - Livro: "The laws of thought" (George Boole)
 - [@cassiasamp](https://twitter.com/cassiasamp) (Twitter)
 
