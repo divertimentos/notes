@@ -2,9 +2,9 @@
 
 ![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/diversidade_nubank.png)
 
-Data: 28 de março de 2019
+**Data**: 28 de março de 2019
 
-Local: Nubank
+**Local**: Nubank
 
 # Programação
 
@@ -61,8 +61,6 @@ Local: Nubank
 
 ### Observações:
 
-- Conferir o perfil da Suelen Marcolino e se inspirar no dela (Lembrando que o perfil dela é típico de alguém que no momento não está procurando trabalho)
+- Conferir o perfil da Suelen Marcolino e se inspirar no dela (Lembrando que o perfil dela o de alguém que no momento não está procurando trabalho)
 - Cargo, linguagens que você conhece/manja
-- Ver o perfil da Clarissa e pedir dicas pra ela também
-- Trocar minha foto de capa
 - TODO: encontrar alguém para referenciar no LinkedIn (Manual do Usuário, Martha, STN, Ensina Mais)
