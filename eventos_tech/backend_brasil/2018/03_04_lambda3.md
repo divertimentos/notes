@@ -1,7 +1,8 @@
 # Backend Brasil #9
 
-Data: 14 de março de 2019
-Local: Lambda3
+**Data**: 14 de março de 2019
+
+**Local**: Lambda3
 
 ### Talk I: Ética no Desenvolvimento de Software (Ruan Brandão (@RuanBrandao))
 
