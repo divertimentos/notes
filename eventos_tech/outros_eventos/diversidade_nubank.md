@@ -1,5 +1,7 @@
 # Tecnologia, Carreira e Diversidade: Novos Olhares (Nubank)
 
+![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/diversidade_nubank.png)
+
 Data: 28 de março de 2019
 
 Local: Nubank
