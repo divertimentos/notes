@@ -65,9 +65,13 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 * [Aquisição de Linguagem](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/aquisicao_linguagem.md) (Letícia Schiavon Kolberg - UNICAMP)
 * [A Origem da Linguagem de uma Perspectiva Internalista](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/origem_linguagem.md) (Fábio Mesquita - UFPR)
 
-## Colóquio Internacional de Semântica Formal
+## II Colóquio Internacional de Semântica Formal
 
 ### 2017
+
+#### Minicursos
+
+* [Anaphora in Discourse](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/minicursos/anaphora_discourse.md) (profª. Craige Roberts - Ohio State University)
 
 ## SeComp (Semana da Computação)
 
