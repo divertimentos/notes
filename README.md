@@ -51,3 +51,26 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 * [Tecnologia, Carreira e Diversidade](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_especiais/diversidade_nubank.md) (Afrotech BR & Nubank)
 
 # Eventos de Linguística 🦎
+
+## SPLIN / SPL (Semana da Linguística)
+
+### 2017
+
+#### Minicursos
+
+* Complexidade Linguística (Ednei Leal)
+
+## Colóquio Internacional de Semântica Formal
+
+### 2017
+
+## SeComp (Semana da Computação)
+
+### 2016
+
+### 2017
+
+## Eventos Especiais
+
+
+
