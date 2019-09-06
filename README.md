@@ -33,13 +33,13 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 
 #### 2019
 
-* [The Developer's Conference 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/TDC_2019.md) (Faculdade Anhembi Morumbi)
+* [The Developer's Conference 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/tdc/2019/TDC_2019.md) (Faculdade Anhembi Morumbi)
 
 ### Elixir Brasil
 
 #### 2019
 
-* [Elixir Brasil 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/elixir_brasil_2019.md) (Nubank)
+* [Elixir Brasil 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/elixir_brasil/2019/elixir_brasil_2019.md) (Nubank)
 
 ### SeComp (Semana da Computação UFSCar)
 
