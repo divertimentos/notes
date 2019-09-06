@@ -1,18 +1,6 @@
 # Readme do repositório Anotações
 
-# Sumário
-
-* Eventos de tech
-  * Backend Brasil
-    * 2018
-      * Julho de 2018 (GetNinjas)
-    * 2019
-      * Março de 2019 (Lambda3)
-      * JS Day #1 (BeeTech!)
-  * Grupy SP
-    * 2019
-      * Março de 2019 (Torabit)
-  * Outros eventos
+# [TODO] Sumário
 
 # Introdução
 
