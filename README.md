@@ -46,7 +46,7 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 
 #### Minicursos
 
-* Complexidade Linguística (Ednei Leal)
+* [Complexidade Linguística](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/complexidade_linguistica.md) (Ednei Leal)
 
 ## Colóquio Internacional de Semântica Formal
 
