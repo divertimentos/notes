@@ -29,10 +29,25 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 * [Março de 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/grupy_sp/2019/03_13_2019_torabit/grupy_torabit.md) (Torabit)
 
 ## Eventos anuais
-### 2019
+### The Developers's Conference
+
+#### 2019
+
 * [The Developer's Conference 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/TDC_2019.md) (Faculdade Anhembi Morumbi)
 
+### Elixir Brasil
+
+#### 2019
+
 * [Elixir Brasil 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/elixir_brasil_2019.md) (Nubank)
+
+### SeComp (Semana da Computação UFSCar)
+
+#### 2016
+
+#### 2017
+
+* [Minicurso de Raspagem de Dados com Python](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2017/raspagem_dados.md) (Fernando Masanori) (**Incompleto**)
 
 ## Eventos especiais
 
