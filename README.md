@@ -46,7 +46,9 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 
 #### Minicursos
 
-* [Complexidade Linguística](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/complexidade_linguistica.md) (Ednei Leal)
+* [Complexidade Linguística](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/complexidade_linguistica.md) (Ednei Leal - UFSCar)
+* [Aquisição de Linguagem](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/aquisicao_linguagem.md) (Letícia Schiavon Kolberg - UNICAMP)
+* [A Origem da Linguagem de uma Perspectiva Internalista](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/origem_linguagem.md) (Fábio Mesquita - UFPR)
 
 ## Colóquio Internacional de Semântica Formal
 
