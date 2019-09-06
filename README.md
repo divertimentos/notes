@@ -16,8 +16,12 @@
 
 # Introdução
 
+Este repositório serve para tornar públicas as anotações que eu costumo fazer em eventos, palestras e minicursos dos quais eventualmente participo. As anotações estavam guardadas no meu Notion, onde apenas eu poderia ter acesso; então, por que não disponibilizá-las para quem quiser? 
 
-# Eventos de Tecnologia
+Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, então esses dois temas são provavelmente o assunto da totalidade dos conteúdos presentes aqui.
+
+
+# Eventos de Tecnologia 💻
 
 ## Backend Brasil
 
@@ -46,4 +50,4 @@
 
 * [Tecnologia, Carreira e Diversidade](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_especiais/diversidade_nubank.md) (Afrotech BR & Nubank)
 
-# Eventos de Linguística
+# Eventos de Linguística 🦎
