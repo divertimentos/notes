@@ -1,5 +1,9 @@
 # Minicurso: Complexidade Linguística (Ednei Leal)
 
+**Data**: 7 de novembro de 2017
+
+**Local**: UFSCar
+
 - Truísmo é um argumento que tomamos como verdade.
 - A metalinguagem das línguas é "difícil", não necessariamente a língua natural.
 - Fica o velho problema de definir complexidade
