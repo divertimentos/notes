@@ -73,6 +73,13 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 
 * [Anaphora in Discourse](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/minicursos/anaphora_discourse.md) (profª. Craige Roberts - Ohio State University)
 
+#### Talks
+
+* [On the Indexicality of Portuguese Past Tenses](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/talks/indexicality_past_tenses.md) (prof. Marcelo Ferreira - USP)
+* [Uma descrição semântica e pragmática formal das interjeições do português brasileiro](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/talks/interjeicoes_pb.md) (Ariane Teixeira - UFSCar)
+* [Pronomes e-type e resoluçao de anáfora: investigações computacionais](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/talks/pronomes_e_type.md) (Daniel Diniz - UNICAMP)
+* [V Raising, High Adverbs and Scope-Assignment in Syntax](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/talks/v_raising.md) (prof. Aquiles Tescari - UNICAMP)
+
 ## SeComp (Semana da Computação)
 
 ### 2016
