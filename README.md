@@ -1,6 +1,6 @@
 # Readme do repositório Anotações
 
-# [TODO] Sumário
+# Sumário
 
 # Introdução
 
@@ -12,6 +12,8 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 # Eventos de Tecnologia 💻
 
 ## Backend Brasil
+
+![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/backend-brasil.svg)
 
 ### 2018
 
