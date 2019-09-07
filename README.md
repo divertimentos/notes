@@ -41,11 +41,20 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 
 * [Elixir Brasil 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/elixir_brasil/2019/elixir_brasil_2019.md) (Nubank)
 
-### SeComp (Semana da Computação UFSCar)
+## SeComp (Semana da Computação da UFSCar)
 
-#### 2016
+### 2016
 
-#### 2017
+#### Mesas-redondas
+
+- [Reflexões sobre a interação humano-computador na próxima década](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/mesas-redondas/humano-computador.md)
+- [Inteligência Artificial](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/mesas-redondas/inteligencia_artificial.md)
+
+#### Talks
+
+- [Big Data e Ciência de Dados](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/talks/big_data_data_science.md) (Andre Carlos Ponce de Leon Ferreira de Carvalho)
+
+### 2017
 
 * [Minicurso de Raspagem de Dados com Python](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2017/raspagem_dados.md) (Fernando Masanori) (**Incompleto**)
 
@@ -80,21 +89,7 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 * [Pronomes e-type e resoluçao de anáfora: investigações computacionais](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/talks/pronomes_e_type.md) (Daniel Diniz - UNICAMP)
 * [V Raising, High Adverbs and Scope-Assignment in Syntax](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/talks/v_raising.md) (prof. Aquiles Tescari - UNICAMP)
 
-## SeComp (Semana da Computação)
-
-### 2016
-
-#### Mesas-redondas
-
-* [Reflexões sobre a interação humano-computador na próxima década](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/mesas-redondas/humano-computador.md)
-* [Inteligência Artificial](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/mesas-redondas/inteligencia_artificial.md)
-
-#### Talks
-
-* [Big Data e Ciência de Dados](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/talks/big_data_data_science.md) (Andre Carlos Ponce de Leon Ferreira de Carvalho)
-* 
-
-### 2017
+### 
 
 ## Eventos Especiais
 
