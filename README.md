@@ -84,6 +84,16 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 
 ### 2016
 
+#### Mesas-redondas
+
+* [Reflexões sobre a interação humano-computador na próxima década](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/mesas-redondas/humano-computador.md)
+* [Inteligência Artificial](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/mesas-redondas/inteligencia_artificial.md)
+
+#### Talks
+
+* [Big Data e Ciência de Dados](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/talks/big_data_data_science.md) (Andre Carlos Ponce de Leon Ferreira de Carvalho)
+* 
+
 ### 2017
 
 ## Eventos Especiais
