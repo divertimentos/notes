@@ -1,4 +1,4 @@
-# Talk: Big Data e Ciência de Dados (CD)
+# Talk: Big Data e Ciência de Dados (Andre Carlos Ponce de Leon Ferreira de Carvalho)
 
 O professor da palestra sobre Big Data, André Carlos Ponce de Leon Ferreira de Carvalho, disse que as linguagens mais usadas para CD e Big Data são Python e R.
 
