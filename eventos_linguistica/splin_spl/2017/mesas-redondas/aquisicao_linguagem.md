@@ -1,4 +1,4 @@
-# Mesa-redonda: Aquisição de Linguagem (prof.ª Elaine Grolla)
+# Mesa-redonda: Aquisição de Linguagem (prof.ª Elaine Grolla - USP)
 
 **Data**: 8 de novembro de 2017
 
