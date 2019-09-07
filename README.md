@@ -80,5 +80,5 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 
 ### III Simpósio Internacional de Desenvolvimento Infantil
 
-* [Statistical Learning in a Natural Language](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/eventos_especiais/statistical_learning.md) (profª. Jessica Hay - University of Tennessee at Knoxville)
+* [Statistical Learning in a Natural Language](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/eventos_especiais/simposio_desenv_infantil/2016/statistical_learning.md) (profª. Jessica Hay - University of Tennessee at Knoxville)
 
