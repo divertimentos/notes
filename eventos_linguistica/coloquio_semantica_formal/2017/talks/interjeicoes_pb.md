@@ -1,4 +1,4 @@
-# Uma descrição semântica e pragmática formal das interjeições do português brasileiro (Ariane Teixeira)
+# Uma descrição semântica e pragmática formal das interjeições do português brasileiro (Ariane Teixeira - UFSCar)
 
 # Anotações
 
