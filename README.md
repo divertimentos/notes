@@ -26,6 +26,8 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 
 ## Grupy SP
 
+![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/grupy-SP.jpeg)
+
 ### 2019
 
 * [Março de 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/grupy_sp/2019/03_13_2019_torabit/grupy_torabit.md) (Torabit)
@@ -33,30 +35,36 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 ## Eventos anuais
 ### The Developers's Conference
 
+![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/tdc.png)
+
 #### 2019
 
 * [The Developer's Conference 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/tdc/2019/TDC_2019.md) (Faculdade Anhembi Morumbi)
 
 ### Elixir Brasil
 
+![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/elixir_brasil.svg)
+
 #### 2019
 
 * [Elixir Brasil 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/elixir_brasil/2019/elixir_brasil_2019.md) (Nubank)
 
-## SeComp (Semana da Computação da UFSCar)
+### SeComp (Semana da Computação da UFSCar)
 
-### 2016
+![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/secomp.png)
 
-#### Mesas-redondas
+#### 2016
+
+##### Mesas-redondas
 
 - [Reflexões sobre a interação humano-computador na próxima década](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/mesas-redondas/humano-computador.md)
 - [Inteligência Artificial](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/mesas-redondas/inteligencia_artificial.md)
 
-#### Talks
+##### Talks
 
 - [Big Data e Ciência de Dados](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/talks/big_data_data_science.md) (Andre Carlos Ponce de Leon Ferreira de Carvalho)
 
-### 2017
+#### 2017
 
 * [Minicurso de Raspagem de Dados com Python](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2017/raspagem_dados.md) (Fernando Masanori) (**Incompleto**)
 
@@ -77,6 +85,8 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 * [A Origem da Linguagem de uma Perspectiva Internalista](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/origem_linguagem.md) (Fábio Mesquita - UFPR)
 
 ## II Colóquio Internacional de Semântica Formal
+
+![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/semantica_formal.jpg)
 
 ### 2017
 
