@@ -12,60 +12,42 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 # Eventos de Tecnologia 💻
 
 ## Backend Brasil
-
-![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/backend-brasil.svg)
-
 ### 2018
 
 * [Julho de 2018](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/backend_brasil/2018/07_08_2018_getninjas.md) (GetNinjas)
-
 ### 2019
 
 * [Março de 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/backend_brasil/2019/03_04_lambda3.md) (Lambda3)
 * [JS Day #1](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/backend_brasil/2019/04_13_2019_beetech.md) (QuebraDev & BeeTech)
 
 ## Grupy SP
-
-![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/grupy-SP.jpeg)
-
 ### 2019
 
 * [Março de 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/grupy_sp/2019/03_13_2019_torabit/grupy_torabit.md) (Torabit)
 
 ## Eventos anuais
+
 ### The Developers's Conference
-
-![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/tdc.png)
-
 #### 2019
 
 * [The Developer's Conference 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/tdc/2019/TDC_2019.md) (Faculdade Anhembi Morumbi)
 
 ### Elixir Brasil
-
-![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/elixir_brasil.svg)
-
 #### 2019
 
 * [Elixir Brasil 2019](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/elixir_brasil/2019/elixir_brasil_2019.md) (Nubank)
 
 ### SeComp (Semana da Computação da UFSCar)
-
-![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/secomp.png)
-
 #### 2016
 
 ##### Mesas-redondas
-
 - [Reflexões sobre a interação humano-computador na próxima década](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/mesas-redondas/humano-computador.md)
 - [Inteligência Artificial](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/mesas-redondas/inteligencia_artificial.md)
 
 ##### Talks
-
 - [Big Data e Ciência de Dados](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2016/talks/big_data_data_science.md) (Andre Carlos Ponce de Leon Ferreira de Carvalho)
 
 #### 2017
-
 * [Minicurso de Raspagem de Dados com Python](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_tech/eventos_anuais/secomp/2017/raspagem_dados.md) (Fernando Masanori) (**Incompleto**)
 
 ## Eventos especiais
@@ -75,35 +57,25 @@ Eu participo majoritariamente de eventos sobre tecnologia e sobre linguística, 
 # Eventos de Linguística 🦎
 
 ## SPLIN / SPL (Semana da Linguística)
-
 ### 2017
 
 #### Minicursos
-
 * [Complexidade Linguística](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/complexidade_linguistica.md) (Ednei Leal - UFSCar)
 * [Aquisição de Linguagem](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/aquisicao_linguagem.md) (Letícia Schiavon Kolberg - UNICAMP)
 * [A Origem da Linguagem de uma Perspectiva Internalista](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/splin_spl/2017/minicursos/origem_linguagem.md) (Fábio Mesquita - UFPR)
 
 ## II Colóquio Internacional de Semântica Formal
-
-![](https://github.com/guiemi-learning-center/anotacoes/blob/master/media/semantica_formal.jpg)
-
 ### 2017
 
 #### Minicursos
-
 * [Anaphora in Discourse](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/minicursos/anaphora_discourse.md) (profª. Craige Roberts - Ohio State University)
 
 #### Talks
-
 * [On the Indexicality of Portuguese Past Tenses](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/talks/indexicality_past_tenses.md) (prof. Marcelo Ferreira - USP)
 * [Uma descrição semântica e pragmática formal das interjeições do português brasileiro](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/talks/interjeicoes_pb.md) (Ariane Teixeira - UFSCar)
 * [Pronomes e-type e resoluçao de anáfora: investigações computacionais](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/talks/pronomes_e_type.md) (Daniel Diniz - UNICAMP)
 * [V Raising, High Adverbs and Scope-Assignment in Syntax](https://github.com/guiemi-learning-center/anotacoes/blob/master/eventos_linguistica/coloquio_semantica_formal/2017/talks/v_raising.md) (prof. Aquiles Tescari - UNICAMP)
 
-### 
-
 ## Eventos Especiais
-
 
 
